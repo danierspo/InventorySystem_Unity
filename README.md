@@ -9,6 +9,7 @@ https://github.com/user-attachments/assets/8b42f48c-835f-4a74-a9a1-94fb7b6c830b
 * Inventory items should be collectible from pickups and usable.
 * Implement at least two different types of items with unique effects when used.
 * Enable the player to drag and drop items within the inventory for organization.
+
 Additional notes:
 * Use C# Scripting
 * Pay special attention to code organization, efficiency, and maintainability
